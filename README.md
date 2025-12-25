@@ -6,8 +6,6 @@ I work across the full stack, building clean and scalable web applications from 
 
 This profile is a space for sharing smaller projects, experiments, and ongoing work with an emphasis on clarity, performance, and maintainability.
 
-<hr style="width: 50%; height: 1px; background-color: #000; border: none;">   
-
 ## Tools & Tech
 
 **Frontend**
@@ -26,8 +24,8 @@ This profile is a space for sharing smaller projects, experiments, and ongoing w
 - Vercel / Railway / AWS (basics)
 
 **Developer Tools**
-- Git, GitHub, GitLab, VScode 
+- Git, GitHub, GitLab, VScode
 
-<hr style="width: 50%; height: 1px; background-color: #000; border: none;">   
+------------
 
 Open to collaboration, freelance work, and full-time opportunities. Feel free to reach out if you’d like to work together. 🙂
