@@ -37,14 +37,6 @@ This profile is a space for sharing smaller projects, experiments, and ongoing w
 - Reusable components and utilities  
 - Proof-of-concepts and side ideas
 
-## Approach
-
-- Build things that are simple, reliable, and easy to maintain  
-- Prefer clarity over cleverness  
-- Focus on real-world usability, not overengineering  
-- Iterate fast, refactor often
-
-
 ---
 
 Open to collaboration, freelance work, and full-time opportunities. Feel free to reach out if you’d like to work together. 🙂
