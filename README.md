@@ -30,13 +30,4 @@ This profile is a space for sharing smaller projects, experiments, and ongoing w
 
 ---
 
-## What You’ll Find Here
-
-- Small to mid-size full-stack projects  
-- Experiments with new technologies  
-- Reusable components and utilities  
-- Proof-of-concepts and side ideas
-
----
-
 Open to collaboration, freelance work, and full-time opportunities. Feel free to reach out if you’d like to work together. 🙂
