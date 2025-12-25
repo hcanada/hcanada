@@ -1,12 +1,12 @@
-# Overview
+# Welcome 👋
 
-I'm **Hcanada**, a full-stack developer based in the **Philippijes**.
+I'm **Hcanada**, a full-stack developer based in the **Philippines**.
 
 I work across the full stack, building clean and scalable web applications from database to UI. I focus on solid backend architecture, intuitive frontend experiences, and reliable system integration.
 
 This profile is a space for sharing smaller projects, experiments, and ongoing work with an emphasis on clarity, performance, and maintainability.
 
----
+<hr style="width: 50%; height: 1px; background-color: #000; border: none;">   
 
 ## Tools & Tech
 
@@ -28,6 +28,6 @@ This profile is a space for sharing smaller projects, experiments, and ongoing w
 **Developer Tools**
 - Git, GitHub, GitLab, VScode 
 
----
+<hr style="width: 50%; height: 1px; background-color: #000; border: none;">   
 
 Open to collaboration, freelance work, and full-time opportunities. Feel free to reach out if you’d like to work together. 🙂
